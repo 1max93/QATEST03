@@ -1,0 +1,10 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 12 13:31:31 UTC 2024","Thu Dec 12 13:31:38 UTC 2024","7007","tests","test_functional_scenario","","","","Test Fonctionnel : Authentification et Vérification de Checkboxes","
+Scénario de test fonctionnel détaillé sur The Internet:
+
+1. Connexion à la zone sécurisée via Form Authentication.
+2. Vérification du message de succès et du header ""Secure Area"".
+3. Retour à la page d'accueil.
+4. Navigation vers la page 'Checkboxes'.
+5. Vérification et action sur un checkbox.
+"
